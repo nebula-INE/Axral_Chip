@@ -1,0 +1,8 @@
+{
+  "name": "Axral Chip - RISC-V 64bit SoC Studio",
+  "description": "初心者からプロまで直感的に自作64bit RISC-V (RV64I) SoCを設計・シミュレーション・物理配置配線(GDSII)できる本格的EDAエディタ",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}
